@@ -9,3 +9,5 @@ Sonuç olarak, metot değiştirilmiş Stringleri içeren bir dizi döndürür.
 main metodu, örnek bir kullanımı gösterir. main metodu, manipulateStrings metodunu çağırır ve sonuçları konsola yazdırır.
 
 Bu sınıfın temel amacı, iki Stringi ve bu Stringlerin karakterlerini değiştirmek için kullanılan indis dizilerini işlemektir.
+
+[![Build Status](https://app.travis-ci.com/iet165/myDemoApp.svg?token=NfvG4KQqzfJQjbP8Usfn&branch=master)](https://app.travis-ci.com/iet165/myDemoApp)
