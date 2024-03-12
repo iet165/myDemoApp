@@ -37,13 +37,12 @@ public void testApp()
 {
     assertTrue( true );
 }
-  
     public void testManipulateStrings_EmptyStrings() {
         // Test data
         String str1 = "";
         String str2 = "";
         ArrayList<Integer> arrayList = new ArrayList<>();
-        int[] integerArray = {};
+        Integer[] integerArray = {};
 
         // Test the method with empty strings and arrays
         String[] result = App.manipulateStrings(str1, str2, arrayList, integerArray);
@@ -58,7 +57,7 @@ public void testApp()
         String str1 = "Hello";
         String str2 = "World";
         ArrayList<Integer> arrayList = new ArrayList<>();
-        int[] integerArray = {};
+        Integer[] integerArray = {};
 
         // Expected results
         String expectedStr1 = "Hello";
